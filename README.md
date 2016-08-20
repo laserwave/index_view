@@ -1,5 +1,9 @@
 Android-IndexView
 ====================
+![](https://github.com/laserwave/IndexView/blob/master/images/1.gif)
+
+![](https://github.com/laserwave/IndexView/blob/master/images/2.gif)
+
 This is used to add index to ListView.
 
 Support `API LEVEL >= 16`.
